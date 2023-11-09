@@ -1,3 +1,7 @@
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,kotlin,php,bootstrap,laravel)](https://skillicons.dev)
+
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=heclypso&show_icons=false&theme=dark"
