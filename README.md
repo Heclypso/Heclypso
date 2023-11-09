@@ -15,3 +15,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=heclypso&show_icons=true" />
 </picture>
+
+### Linguagens
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heclypso)](https://github.com/anuraghazra/github-readme-stats)
