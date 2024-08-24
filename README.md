@@ -1,5 +1,5 @@
 ### Abilities
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,php,bootstrap,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,jquery,sass,gulp,less,vuejs,bootstrap,laravel)](https://skillicons.dev)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=23232e&height=120&section=header"/>
 
